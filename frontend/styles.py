@@ -17,6 +17,9 @@ def load_custom_css():
     * {
         font-family: 'Inter', sans-serif;
     }
+     h2 { 
+        color: black !important;
+    }
     
     /* Main Container */
     .main {
